@@ -5,8 +5,8 @@ GEM
       redcarpet (>= 2.2, < 4.0)
       rouge (>= 1.5)
     rainbow (2.0.0)
-    redcarpet (3.1.2)
-    rouge (1.6.1)
+    redcarpet (3.5.1)
+    rouge (3.26.0)
     sass (3.3.14)
     scss-lint (0.26.2)
       rainbow (~> 2.0)
@@ -19,3 +19,6 @@ DEPENDENCIES
   hologram (= 1.2.0)
   sass (~> 3.3.14)
   scss-lint (= 0.26.2)
+
+BUNDLED WITH
+   1.17.3
